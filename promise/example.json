@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "age": 28
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "age": 32
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "age": 45
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Phone",
+      "price": 499.99
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 999.99
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 99.99
+    }
+  ]
+}
